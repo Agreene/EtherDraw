@@ -1,0 +1,25 @@
+{
+  "name": "etherdrawbeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "jquery": "^3.2.1",
+    "truffle-contract": "^3.0.1",
+    "web3": "^0.20.1"
+  },
+  "devDependencies": {
+    "create-html": "^4.1.0",
+    "file-loader": "^1.1.6",
+    "webpack": "^3.10.0"
+  }
+}
